@@ -12,8 +12,8 @@ Here is a imgur link to some renders of the blaster: [LINK](https://imgur.com/a/
 # Changelog
 <details>
 <summary>Changes</summary>
-<br>
-* 12-04-2022: Initial Release
+
+- 12-04-2022: Initial Release
 </details>
 
 <!-- BOM -->
