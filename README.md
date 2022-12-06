@@ -13,6 +13,7 @@ Here is a imgur link to some renders of the blaster: [LINK](https://imgur.com/a/
 <details>
 <summary>Changes</summary>
 
+- 12-05-2022: Added drill stencil STL files for support bars
 - 12-04-2022: Initial Release
 </details>
 
