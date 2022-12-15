@@ -1,5 +1,5 @@
 # The Fin
-## v1.0.0
+## v1.0.1
 
 The Fin is a straight Talon mag fed pump action springer in a small compact frame. Coming in at around 15in (390mm) long! The blaster packs an Espyr spring volume with a side mounted mag to help keep the blaster compact (this is also how I came up with the name for it). Two threaded rods make up the trigger mechanism and the reload action. The rods are hidden behind the center shroud for aesthetics. The blaster utilizes a turn-around much like the Lynx or SLAB to transfer backward airflow into dart throwing power. Picatinny rails or just some iron sights are planned, I just wanted to get one printed to work out any bugs before more design work.
 
