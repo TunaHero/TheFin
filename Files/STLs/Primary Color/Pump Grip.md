@@ -1,2 +1,2 @@
 ### Pump Grip
-Google Drive [LINK](https://drive.google.com/file/d/1MSO4meKmj2kODSW8G3oXAXA8VUTfSzjp/view?usp=sharing)
+Google Drive [LINK](https://drive.google.com/file/d/1EzIwS6tlBoYOgHcX7Keq5jsqAQe0lHy5/view?usp=share_link)
