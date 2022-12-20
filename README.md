@@ -1,5 +1,5 @@
 # The Fin
-## v1.0.1
+## v1.02
 
 The Fin is a straight Talon mag fed pump action springer in a small compact frame. Coming in at around 15in (390mm) long! The blaster packs an Espyr spring volume with a side mounted mag to help keep the blaster compact (this is also how I came up with the name for it). Two threaded rods make up the trigger mechanism and the reload action. The rods are hidden behind the center shroud for aesthetics. The blaster utilizes a turn-around much like the Lynx or SLAB to transfer backward airflow into dart throwing power. Picatinny rails or just some iron sights are planned, I just wanted to get one printed to work out any bugs before more design work.
 
@@ -13,6 +13,35 @@ Here is a imgur link to some renders of the blaster: [LINK](https://imgur.com/a/
 <details>
 <summary>Changes</summary>
 
+- 12-20-2022: Updates After Second Build
+  1. Updated Parts 
+     - **Grip Core**
+       - Implement new trigger spring design
+     - **Grip Core Plate**
+       -  Implement new trigger spring design
+     - **Pusher**
+       - New keyway design
+     - **Turn Around**
+       - Update slot for new keyway design on *Pusher*
+     - **Turn Around Spacer**
+       - Update slot for new keyway design on *Pusher*
+       - Update clearance for *Pump Grip*
+     - **Magwell**
+       - Update slot for new keyway design on *Pusher*
+     - **Magwell Top**
+       - Update slot for new keyway design on *Pusher*
+     - **Center Block**
+       - Update clearance for *Pump Grip*
+     - **Pump Grip Core**
+       - Add cutaway to give access to screws attaching *Reload Block* to *Plunger Catch Cylinder* (Makes assembly easier)
+     - **Reload Block**
+       - Add clearance between *Reload Block* and *Front Spacer*
+     - **Front Spacer**
+       - Add clearance between *Front Spacer*, *Reload Block*, and *Plunger Cylinder Catch*
+  2. New Parts
+     - **Plunger Catch - Medium**
+       - Keyway in the *Plunger Catch* cut in half
+       - Use if your tigger is too hard to pull because of the compressed spring force on the *Plunger Catch*
 - 12-15-2022: Huge Design and Clearance update.
   1. Updated Parts
      - **Center Block**
