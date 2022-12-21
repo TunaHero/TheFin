@@ -12,6 +12,7 @@ Here is a imgur link to some renders of the blaster: [LINK](https://imgur.com/a/
 # Changelog
 <details>
 <summary>Changes</summary>
+  
 - 12-21-2022: Additional Changes After Second Build (v1.03)
   1. Updated Parts
      - **Magwell Top**
