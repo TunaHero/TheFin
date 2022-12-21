@@ -1,5 +1,5 @@
 # The Fin
-## v1.02
+## v1.03
 
 The Fin is a straight Talon mag fed pump action springer in a small compact frame. Coming in at around 15in (390mm) long! The blaster packs an Espyr spring volume with a side mounted mag to help keep the blaster compact (this is also how I came up with the name for it). Two threaded rods make up the trigger mechanism and the reload action. The rods are hidden behind the center shroud for aesthetics. The blaster utilizes a turn-around much like the Lynx or SLAB to transfer backward airflow into dart throwing power. Picatinny rails or just some iron sights are planned, I just wanted to get one printed to work out any bugs before more design work.
 
@@ -12,8 +12,15 @@ Here is a imgur link to some renders of the blaster: [LINK](https://imgur.com/a/
 # Changelog
 <details>
 <summary>Changes</summary>
-
-- 12-20-2022: Updates After Second Build
+- 12-21-2022: Additional Changes After Second Build (v1.03)
+  1. Updated Parts
+     - **Magwell Top**
+       - Updated dart guide so the *Pusher* O-ring does not rub against it
+     - **Magwell**
+       - Updated dart guide so the *Pusher* O-ring does not rub against it
+     - **Trigger Catch**
+       - Add clearance between *Trigger Catch* and *Front Spacer* (missed in previous release, changes were present in step file though)
+- 12-20-2022: Updates After Second Build (v1.02)
   1. Updated Parts 
      - **Grip Core**
        - Implement new trigger spring design
@@ -43,7 +50,7 @@ Here is a imgur link to some renders of the blaster: [LINK](https://imgur.com/a/
        - Keyway in the *Plunger Catch* cut in half
        - Use if your tigger is too hard to pull because of the compressed spring force on the *Plunger Catch*
 - 12-15-2022: Huge Design and Clearance update.
-  1. Updated Parts
+  1. Updated Parts (v1.01)
      - **Center Block**
        - Formerly *Plunger Lock Block*
        - Updated screw holes, support bar, and barrel clearance
@@ -134,7 +141,7 @@ Here is a imgur link to some renders of the blaster: [LINK](https://imgur.com/a/
        - Split into Plunger Cap and Plunger Shaft
        - Old design did not withstand the forces of a compressed K25 spring
 - 12-05-2022: Added drill stencil STL files for support bars
-- 12-04-2022: Initial Release
+- 12-04-2022: Initial Release  (v1.00)
 </details>
 
 <!-- BOM -->
