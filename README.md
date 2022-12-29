@@ -1,6 +1,8 @@
 # The Fin
 ## v1.03
 
+![Red in Hand](/Images/redInHand.jpg)
+
 ### PRINT AT YOUR OWN RISK. AS OF V1.03 THIS BLASTER IS FUNCTIONAL BUT VERY FINICKY AND HARD TO BUILD. YOU HAVE BEEN WARNED
 
 ### Intro
@@ -27,28 +29,23 @@ The threaded rods were an interesting concept to utilise but in practice caused 
 The biggest elephant in the room is the assembly… it is not anywhere close to user friendly! This is definitely an “implementation of design” problem. After assembling this blaster about a dozen times I was able to get it down to about an hour to get everything together and functional. It is not intuitive or user friendly in any way. I definitely learned quite a lot here haha.
 
 ##### Some “Key Takeaways”:
-
-<details>
 - Decrease the amount and variety of screws. The blaster utilises 11 different kinds and sizes of screws. Some of the screw holes could be redesigned to use a different screw size easily. I estimate that I could cut the variety of screws in half just with some slight model tweaks.
 - Use different screws. I am impartial to M3 hardware but the button head screws I am using here are fragile and easy to strip. Socket head are definitely the way to go.
 - Don’t do “screw into plastic” everywhere. Utilise captive nuts as much as you can. It is very easy to over tighten and strip out 3d printed plastic.
 - Clearance Clarence… this is one of my first big, multi-part 3d printed projects and the tolerances stacked HARD at times.
 - Off the side mags are interesting and cool visually but in practice get in the way. Especially if they are close to the body like on The Fin.
-</details>
 
 ##### What's to come:
 At the current moment I don’t know if I want to continue working on this blaster or take what I have learned and move on. Figuring out the trigger and air seal might be all this blaster needs to be classified as “Done” but at the same time I am rather burnt out on it. In the end it was a great experience and I enjoyed it quite a lot! This is not my last blaster by any means, I will continue to develop and release designs that I think are cool.
 
 Here is a list of things that need to be fixed or additions to the platform that I think would be good/helpful/interesting.
 
-<details>
 - Fix the air seal
 - Fix the trigger mechanism
 - Add sights or picatinny rail mount
 - Add options for different front grips. (Picatinny rail, built in foregrip, etc)
 - Add stock
 - Add a return spring?
-</details>
 
 # The Design
 
