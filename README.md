@@ -20,11 +20,11 @@ The craptastic trigger was by far the hardest issue to overcome. In the end I re
 
 I know what you are thinking, yes it does cut right through the air path for the turn around. There is a bridge in the air path already to prevent darts from falling into the turn around. This design just expands that bridge a bit to accommodate a threaded rod running through the middle of it! I will have to test this to see the effects this has on airflow but I am optimistic that it has none. I will update this in the future after I have tested it in person.
 
-![Trigger Pathway](/Images/Redesign/TriggerPath.jpeg)
+![Trigger Pathway](/Images/Redesign/TriggerPath.jpg)
 
 On the fragility of the reload mechanism I have incorporated two things into my design. The first is a beefed up Ram Brace. Instead of being a simple bracket I added a lofted bit to help alleviate some of the force applied to the pusher. This new lofted area also allows for an additional screw to be added to help spread some force out to the pusher. This new design does make this part significantly more complicated but I feel that its added complexity is necessary for the proper functionality of the blaster.
 
-![Ram Brace v2](/Images/Redesign/NewRamBrace.jpeg)
+![Ram Brace v2](/Images/Redesign/NewRamBrace.jpg)
 
 The other new piece in the design is the addition of threaded inserts for any component that involves the threaded rods. Before I was having issues on the rods stripping out of the 3D printed parts. This was the main failure on the last working v1.03 blaster. Adding these parts does increase the cost and difficulty in assembly of the blaster but I feel it is a necessary complexity. I am currently looking into alternative designs that utilize captive nuts instead of the heat set inserts. There are also heat set inserts on the new trigger design as well.
 
@@ -34,11 +34,11 @@ Lastly, and one of the most annoying issues to the end user… the difficulty in
 
 At the moment I don’t have any IRL photos to show but here are some CAD comparisons to my original design. The new linear trigger design forced the body a bit taller… The Fin is still the same length however.
 
-![Side by Side](/Images/Redesign/SidebySide.jpeg)
+![Side by Side](/Images/Redesign/SidebySide.jpg)
 
 I have also incorporated the first alternative design piece! With the new taller body and the lack of left side trigger threaded rod there is some new empty space that could be covered up. Sadly the right side does not share in this some one half of the inner mechanisms will be exposed. Below is the Shroud vs No Shroud alt designs. I will have more alt pieces in the future.
 
-![Shroud vs No Shroud](/Images/Redesign/ShroudNoShroud.jpeg)
+![Shroud vs No Shroud](/Images/Redesign/ShroudNoShroud.jpg)
 
 I will update this github page with any new info I have in the future. But for now, _See you Space Cowboy_
 
