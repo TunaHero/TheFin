@@ -3,6 +3,8 @@
 
 ### The Great Redesign
 
+![CAD view 1](/Images/Redesign/cadView1.JPG) ![CAD view 2](/Images/Redesign/cadView2.JPG)
+
 After the last update I took a break from The Fin to cool off and think of ways to fix the issues it had. Over the past month I have slowly got back to working on it and I have finally made it to a point where I consider it revision 1.1! In the coming weeks I will be printing another version of the blaster and working out the new kinks in the design. This new revision feels better and not as rushed as the previous one… I am pretty confident in the changes and I am excited to see them realized.
 
 In my previous update I laid out the core issues I was experiencing with the initial design. The main issues were:
