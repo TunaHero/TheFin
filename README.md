@@ -1,5 +1,49 @@
 # The Fin
-## v1.03
+## v1.10
+
+### The Great Redesign
+
+After the last update I took a break from The Fin to cool off and think of ways to fix the issues it had. Over the past month I have slowly got back to working on it and I have finally made it to a point where I consider it revision 1.1! In the coming weeks I will be printing another version of the blaster and working out the new kinks in the design. This new revision feels better and not as rushed as the previous one… I am pretty confident in the changes and I am excited to see them realized.
+
+In my previous update I laid out the core issues I was experiencing with the initial design. The main issues were:
+
+- Bad airseal
+- Poor, unreliable trigger design
+- Fragile reload mechanism
+- Difficult assembly
+
+The first issue was a rather simple one to fix. In the original design the pusher used an o-ring to create a seal with the barrel. This seal however also encapsulated multiple 3d printed parts that did not sit 100% flush with each other and the barrel. This would result in a small gap but the o-ring where air would easily escape from during firing. If the user didn’t pull the pump grip forward enough this leak would be bad enough that darts wouldn’t even leave the barrel of the blaster… To fix this I merged the two semi-circles that formed the back of the barrel-way into one piece. This new feature solely exists on the Magwell Top. If the airseal remains poor I will remove this feature altogether and just have the Turn-Around act as the entire barrel-to-seal-way.
+
+The craptastic trigger was by far the hardest issue to overcome. In the end I realized that the horizontal movement of the Trigger Catch against the Plunger Catch was flawed. A rotational force that applied downward pressure on the Plunger Catch made more sense. In order to achieve this the entire Catch system was remade. The initial new redesign used the same offset trigger mechanism from the original. It started not making sense to have multiple off-axis forces in the design just to keep the core form factor of the blaster the same. In the end I made the tough decision to redesign the entire body of the blaster to allow for the trigger to be single axis. In other words, now the blaster's trigger runs straight through the center of the blaster, removing all other off-axis forces from the trigger pull. Below is a simple gif showing the new trigger mechanism in operation.
+
+![Trigger Redesign Gif](/Images/Redesign/redesignTriggerGif.gif)
+
+I know what you are thinking, yes it does cut right through the air path for the turn around. There is a bridge in the air path already to prevent darts from falling into the turn around. This design just expands that bridge a bit to accommodate a threaded rod running through the middle of it! I will have to test this to see the effects this has on airflow but I am optimistic that it has none. I will update this in the future after I have tested it in person.
+
+![Trigger Pathway](/Images/Redesign/TriggerPath.jpeg)
+
+On the fragility of the reload mechanism I have incorporated two things into my design. The first is a beefed up Ram Brace. Instead of being a simple bracket I added a lofted bit to help alleviate some of the force applied to the pusher. This new lofted area also allows for an additional screw to be added to help spread some force out to the pusher. This new design does make this part significantly more complicated but I feel that its added complexity is necessary for the proper functionality of the blaster.
+
+![Ram Brace v2](/Images/Redesign/NewRamBrace.jpeg)
+
+The other new piece in the design is the addition of threaded inserts for any component that involves the threaded rods. Before I was having issues on the rods stripping out of the 3D printed parts. This was the main failure on the last working v1.03 blaster. Adding these parts does increase the cost and difficulty in assembly of the blaster but I feel it is a necessary complexity. I am currently looking into alternative designs that utilize captive nuts instead of the heat set inserts. There are also heat set inserts on the new trigger design as well.
+
+Lastly, and one of the most annoying issues to the end user… the difficulty in assembly… Now I can’t entirely speak for this currently as I haven’t built a new blaster yet BUT I do have some thoughts on how this has improved. With the new trigger design the threaded rod is now significantly easier to deal with during the assembly process. Same goes for the reload rod with the addition of the heat set inserts. I will have a better idea on the ease of assembly in the future.
+
+### So What Now?
+
+At the moment I don’t have any IRL photos to show but here are some CAD comparisons to my original design. The new linear trigger design forced the body a bit taller… The Fin is still the same length however.
+
+![Side by Side](/Images/Redesign/SidebySide.jpeg)
+
+I have also incorporated the first alternative design piece! With the new taller body and the lack of left side trigger threaded rod there is some new empty space that could be covered up. Sadly the right side does not share in this some one half of the inner mechanisms will be exposed. Below is the Shroud vs No Shroud alt designs. I will have more alt pieces in the future.
+
+![Shroud vs No Shroud](/Images/Redesign/ShroudNoShroud.jpeg)
+
+I will update this github page with any new info I have in the future. But for now, _See you Space Cowboy_
+
+<details>
+<summary>The Fin: A Reflection, and old info</summary>
 
 ![Red in Hand](/Images/redInHand.jpg)
 
@@ -46,6 +90,7 @@ Here is a list of things that need to be fixed or additions to the platform that
 - Add options for different front grips. (Picatinny rail, built in foregrip, etc)
 - Add stock
 - Add a return spring?
+</details>
 
 # The Design
 
@@ -61,6 +106,29 @@ Here is a imgur link to some renders of the blaster: [OLD](https://imgur.com/a/9
 <details>
 <summary>Changes</summary>
 
+- 02-03-2022: The Fin Redone
+  1. Added re-reflection
+  2. Updated Parts
+     - There are many... 18 of the 26 parts in the blaster were updated. Most of the body has been updated to accommodate the new trigger design. Instead of listing all of the changed parts its easier to list what hasn't changed... Grip Right, Mag Release, Plunger Cap, Plunger Catch, Plunger Catch Spacer, Plunger Catch Cylinder, Plunger Shaft, and Short Plunger Cup.
+  3. New Parts
+     - Grip Bracket
+	   - This is a combo piece of the Reload Block and Pump Grip Core
+	   - Contains base for the new trigger system
+	 - Trigger Catch Guide
+	   - Instead of the Front Spacer having a built in guide for the Trigger Catch it is now a separate piece
+	 - Trigger Actuator
+	   - New Trigger design. Uses rotational force instead of horizontal movement to move the plunger catch
+  4. Removed Parts
+     - Pump Grip Core
+	   - Combo'd with the Reload Block to make the Grip Bracket
+	 - Reload Block
+	   - Combo'd with the Pump Grip Core to make the Grip Bracket
+	 - Turn Around Spacer
+	   - Renamed to Logo Spacer for simplicity
+	 - Fronter Spacer
+	   - Merged with the Front Spacer because the trigger guide was made into a separate part: Trigger Catch Guide
+	 - Trigger Bracket
+	   - New trigger design didn't need the bracket anymore. Now it's _linear_
 - 12-29-2022: A Reflection...
   1. Added Images, a reflection, whats to come
 
